@@ -1,0 +1,5 @@
+com\github\Silva28\app\domain\model\StockItem.class
+com\github\Silva28\app\StockResource.class
+com\github\Silva28\app\domain\model\ItemType.class
+com\github\Silva28\app\domain\model\StockItemRepository.class
+com\github\Silva28\app\StockSpringBootStarter.class
